@@ -1,0 +1,4 @@
+Key,qSkillCoolDown,wSkillCoolDown,eSkillCoolDown,rSkillCoolDown,qSkillDuration,wSkillDuration,eSkillDuration,rSkillDuration,qMp,wMp,eMp,rMp
+Garen,8,15,9,100,4.5,3,3,0,0,0,0,0
+Alistar,12,12,10,100,1,0,5,7,50,50,50,100
+Jinx,1,6,15,75,0,2,5,0,5,50,90,100
